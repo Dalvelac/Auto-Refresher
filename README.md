@@ -1,4 +1,4 @@
-![UI Demonstration](https://i.vgy.me/MpSob1.jpg)
+![UI Demonstration](https://github.com/Dalvelac/Auto-Refresher/blob/main/UI%20demonstration.JPG?raw=true)
 
 This guide explains how to set up and run the provided Python script, which automates refreshing websites.
 
